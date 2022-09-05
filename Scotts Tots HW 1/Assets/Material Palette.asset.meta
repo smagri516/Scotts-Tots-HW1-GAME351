@@ -1,4 +1,5 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 <<<<<<<< HEAD:Scotts Tots HW 1/Assets/Polytope Studio/Lowpoly Medieval Demos/Environment_Free/Environment_Free.unity.meta
 guid: 36a28716c02664a45a32cb3a5a8daff4
 DefaultImporter:
@@ -6,6 +7,10 @@ DefaultImporter:
 guid: 22a86be081278f44084635449a685b65
 NativeFormatImporter:
 >>>>>>>> bef8aabe685829d40d660242d270fc74ea0c3cb9:Scotts Tots HW 1/Assets/Material Palette.asset.meta
+=======
+guid: 22a86be081278f44084635449a685b65
+NativeFormatImporter:
+>>>>>>> b5e8cb41fd002bcdfc2b6fdbd73c7bf7463be209
   externalObjects: {}
   mainObjectFileID: 11400000
   userData: 
