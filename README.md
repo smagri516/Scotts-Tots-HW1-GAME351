@@ -1,7 +1,13 @@
 # Scotts-Tots-HW1-GAME351
  Scott's Tots HW 1. Scene creation
 
- Team members: Sebastian Magri, Caleb Cook, Michael Cockrell, Tristin Anaya
+ Names:
+ Caleb Cook
+ Sebastian Magri
+ Michael Cockrell
+ Tristin Anaya
+
+ Github: https://github.com/smagri516/Scotts-Tots-HW1-GAME351
 
  Packages Used:
  - AQUAS-Lite (used for water shader)
